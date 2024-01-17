@@ -16,5 +16,5 @@
 
 ![Kickerin weiß](images/female.jpg)
 ![Revell Gläzend](images/revell_glaezend.jpg)
-![Revell Seitenmatt](images/revell_seitematt.jpg)
+![Revell Seitenmatt](images/revell_seitenmatt.jpg)
 ![Revell Metaallic](images/revell_metallic.jpg)

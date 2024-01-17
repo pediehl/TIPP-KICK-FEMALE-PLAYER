@@ -3,7 +3,7 @@
 ## Material
 
 + Revell Farbe
-+ Pinsel ![Pinsel](images\71ZrvbxA81L._AC_SL1500_.jpg)
+ ![Pinsel](images\71ZrvbxA81L._AC_SL1500_.jpg)
 + eventuell Verdünner
 
 <https://www.tipp-kick.de/Weitere-Artikel/Do-it-yourself/female-player-unpainted.html>
